@@ -10,8 +10,6 @@ import com.hyjx.util.PropertiesUnit;
 
 /**
  * 添加数据库1111111111111111111111
- * 添加数据库1111111111111111111111
- * 添加数据库1111111111111111111111fffffffffffffffff
  * 
  * @author hyjxzmq
  * 
