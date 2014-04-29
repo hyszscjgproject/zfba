@@ -1,4 +1,4 @@
-package com.hyjx.DAO;
+﻿package com.hyjx.DAO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +9,7 @@ import com.hyjx.DTO.BLOGDTO;
 import com.hyjx.util.PropertiesUnit;
 
 /**
- * 添加数据库
+ * 添加数据库1111111111111111111111
  * 
  * @author hyjxzmq
  * 
